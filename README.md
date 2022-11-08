@@ -1,6 +1,6 @@
 # coron42
 
-![coron42_main00](/images/coron42_main_00.jpg)
+![coron42_main00](/images/main_00.jpg)
 
 A simple and minimal row-staggered keyboard with 42 keys.
 
@@ -11,6 +11,6 @@ A simple and minimal row-staggered keyboard with 42 keys.
 Build Guide [JP](doc/buildguide.md) / [EN](doc/buildguide_en.md)
 
 The bottom row supports [1u+2.75u+2.25u+1u] and [7u].
-![coron42_main01](/images/coron42_main_01.jpg)
+![coron42_main01](/images/main_01.jpg)
 
-![coron42_main02](/images/coron42_main_02.jpg)
+![coron42_main02](/images/main_02.jpg)
